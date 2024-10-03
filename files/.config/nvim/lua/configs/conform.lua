@@ -20,7 +20,7 @@ local options = {
 
   format_on_save = {
     -- These options will be passed to conform.format()
-    timeout_ms = 2000,
+    timeout_ms = 5000,
     async = false,
     lsp_fallback = true,
   },

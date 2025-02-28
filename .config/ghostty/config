@@ -1,0 +1,12 @@
+font-family = "JetBrainsMono NFM Light"
+font-family-bold = "JetBrainsMono"
+font-size = 18
+window-decoration = true
+macos-titlebar-style = hidden
+window-padding-x = 8,8
+window-padding-y = 8,8
+window-padding-balance = true
+theme = catppuccin-mocha
+window-colorspace = "display-p3"
+font-feature = -calt
+mouse-hide-while-typing = true
